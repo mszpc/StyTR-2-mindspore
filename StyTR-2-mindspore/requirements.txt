@@ -1,0 +1,4 @@
+easydict==1.9
+mindspore
+numpy
+Pillow
